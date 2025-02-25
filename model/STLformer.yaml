@@ -1,0 +1,115 @@
+PEMS03:
+  num_nodes: 358
+  in_steps: 12
+  out_steps: 12
+  train_size: 0.6
+  val_size: 0.2
+  lr: 0.001
+  weight_decay: 0.0030
+  lr_decay_rate: 0.1
+  batch_size: 16
+  max_epochs: 200
+  patience: 20
+  use_cl: False
+  cl_step_size: 2500
+
+  model_args:
+    num_nodes: 358
+    in_steps: 12
+    out_steps: 12
+    steps_per_week: 2016
+    input_dim: 2
+    output_dim: 1
+    input_embedding_dim: 32
+    tow_embedding_dim: 32
+    feed_forward_dim: 256
+    num_heads: 4
+    num_layers: 6
+    dropout: 0.1
+
+PEMS04:
+  num_nodes: 307
+  in_steps: 12
+  out_steps: 12
+  train_size: 0.6
+  val_size: 0.2
+  lr: 0.001
+  weight_decay: 0.0020
+  lr_decay_rate: 0.1
+  batch_size: 16
+  max_epochs: 200
+  patience: 20
+  use_cl: False
+  cl_step_size: 2500
+
+  model_args:
+    num_nodes: 307
+    in_steps: 12
+    out_steps: 12
+    steps_per_week: 2016
+    input_dim: 2
+    output_dim: 1
+    input_embedding_dim: 32
+    tow_embedding_dim: 32
+    feed_forward_dim: 256
+    num_heads: 4
+    num_layers: 6
+    dropout: 0.1
+
+PEMS07:
+  num_nodes: 883
+  in_steps: 12
+  out_steps: 12
+  train_size: 0.6
+  val_size: 0.2
+  lr: 0.001
+  weight_decay: 0.0015
+  lr_decay_rate: 0.1
+  batch_size: 16
+  max_epochs: 200
+  patience: 20
+  use_cl: False
+  cl_step_size: 2500
+
+  model_args:
+    num_nodes: 883
+    in_steps: 12
+    out_steps: 12
+    steps_per_week: 2016
+    input_dim: 2
+    output_dim: 1
+    input_embedding_dim: 32
+    tow_embedding_dim: 32
+    feed_forward_dim: 256
+    num_heads: 4
+    num_layers: 6
+    dropout: 0.1
+
+PEMS08:
+  num_nodes: 170
+  in_steps: 12
+  out_steps: 12
+  train_size: 0.6
+  val_size: 0.2
+  lr: 0.001
+  weight_decay: 0.0020
+  lr_decay_rate: 0.1
+  batch_size: 16
+  max_epochs: 5
+  patience: 20
+  use_cl: False
+  cl_step_size: 2500
+
+  model_args:
+    num_nodes: 170
+    in_steps: 12
+    out_steps: 12
+    steps_per_week: 2016
+    input_dim: 2
+    output_dim: 1
+    input_embedding_dim: 32
+    tow_embedding_dim: 32
+    feed_forward_dim: 256
+    num_heads: 4
+    num_layers: 6
+    dropout: 0.1
