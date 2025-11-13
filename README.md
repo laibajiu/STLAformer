@@ -1,6 +1,6 @@
 # [Transportation Research Part C] Position-Aware Unified Embedding with Linear Attention for Distinguishable Flow Modeling
 
-**Tao Cui**, **Yudong Lu**, **Di Dong**, **Chongguang Ren**, **Zhijian Qu**, **Panjing Li**
+**[Tao Cui](https://github.com/laibajiu/STLAformer/)**, **Yudong Lu**, **Di Dong**, **Chongguang Ren**, **Zhijian Qu**, **Panjing Li**
 
 ---
 
