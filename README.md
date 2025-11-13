@@ -35,6 +35,7 @@ This is a PyTorch implementation of **STLAformer** for Traffic Forecasting, as d
 
 ---
 
+<p>
 ## Required Packages
 ```bibtex
 pytorch>=1.11
@@ -45,6 +46,7 @@ pyyaml
 pickle
 torchinfo
 ```bibtex
+</p>
 
 ---
 
@@ -54,8 +56,10 @@ python train.py -d <dataset> -g <gpu_id>
 
 ---
 
+<p>
 ## Testing Commands
 Select TestPreTrained.py, choose the dataset to be tested, and import the trained model parameters from {DATASET_NAME}.pth in the pre-trained folder.
+</p>
 
 ---
 
