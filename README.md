@@ -32,8 +32,9 @@ This is a PyTorch implementation of **STLAformer** for Traffic Forecasting, as d
   year={2026},
   publisher={Elsevier}
 }
+```bibtex
 
-## ⚙️ **Required Packages**
+## ⚙️ Required Packages
 Before training, please make sure the following dependencies are installed:
 
 ```bash
