@@ -48,7 +48,7 @@ torchinfo
 ---
 
 ## Training Commands
-cd model/
+cd model/  
 python train.py -d <dataset> -g <gpu_id>
 
 ---
@@ -59,7 +59,7 @@ Select TestPreTrained.py, choose the dataset to be tested, and import the traine
 ---
 
 ## Dataset
-PEMS03
-PEMS04
-PEMS07
-PEMS08
+PEMS03  
+PEMS04  
+PEMS07  
+PEMS08  
