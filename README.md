@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/laibajiu/STLAformer/blob/main/images/Framework%20of%20STLAformer.png?raw=true" alt="Framework of STLAformer" width="80%">
+  <img src="https://github.com/laibajiu/STLAformer/blob/main/images/Framework%20of%20STLAformer.png?raw=true" alt="Framework of STLAformer" width="100%">
 </p>
 
 This is a PyTorch implementation of **STLAformer** for Traffic Forecasting, as described in our paper:  
