@@ -1,7 +1,6 @@
 # Position-Aware Unified Embedding with Linear Attention for Distinguishable Flow Modeling
 
-[Tao Cui](https://github.com/laibajiu/STLAformer/), Yudong Lu, Di Dong, Chongguang Ren, Zhijian Qu, Panjing Li,  
-Transportation Research Part C: Emerging Technologies, 2026.  
+[Tao Cui](https://github.com/laibajiu/STLAformer/), Yudong Lu, Di Dong, Chongguang Ren, Zhijian Qu, Panjing Li. Transportation Research Part C: Emerging Technologies, 2026.  
   
 This is a PyTorch implementation of **STLAformer**, as described in our paper:  
 [https://doi.org/10.1016/j.trc.2025.105423](https://doi.org/10.1016/j.trc.2025.105423)
