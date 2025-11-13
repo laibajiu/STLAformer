@@ -31,7 +31,7 @@ This is a PyTorch implementation of **STLAformer** for Traffic Forecasting, as d
   year={2026},
   publisher={Elsevier}
 }
-```bibtex
+```
 
 ---
 
