@@ -5,6 +5,7 @@ Transportation Research Part C: Emerging Technologies, 2026.
   
 This is a PyTorch implementation of **STLAformer**, as described in our paper:  
 [https://doi.org/10.1016/j.trc.2025.105423](https://doi.org/10.1016/j.trc.2025.105423)
+
 ---
 
 <p align="center">
