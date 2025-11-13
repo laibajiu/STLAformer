@@ -1,4 +1,4 @@
-# Position-Aware Unified Embedding with Linear Attention for Distinguishable Flow Modeling
+# Position-Aware unified embedding with linear attention for Distinguishable flow modeling
 
 [Tao Cui](https://github.com/laibajiu/STLAformer/), Yudong Lu, Di Dong, Chongguang Ren, Zhijian Qu, Panjing Li. Transportation Research Part C: Emerging Technologies, 2026.  
   
@@ -45,7 +45,6 @@ pyyaml
 pickle
 torchinfo
 ```bibtex
-</p>
 
 ---
 
@@ -55,10 +54,8 @@ python train.py -d <dataset> -g <gpu_id>
 
 ---
 
-<p>
 ## Testing Commands
 Select TestPreTrained.py, choose the dataset to be tested, and import the trained model parameters from {DATASET_NAME}.pth in the pre-trained folder.
-</p>
 
 ---
 
