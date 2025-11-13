@@ -48,13 +48,13 @@ torchinfo
 ---
 
 ## Training Commands
-cd model/
-python train.py -d <dataset> -g <gpu_id>
+cd model/  
+python train.py -d <dataset> -g <gpu_id>  
 
 ---
 
 ## Testing Commands
-Select TestPreTrained.py, choose the dataset to be tested, and import the trained model parameters from {DATASET_NAME}.pth in the pre-trained folder.
+Select TestPreTrained.py, choose the dataset to be tested, and import the trained model parameters from {DATASET_NAME}.pth in the pre-trained folder.  
 
 ---
 
