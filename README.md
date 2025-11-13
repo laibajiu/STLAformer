@@ -33,7 +33,10 @@ This is a PyTorch implementation of **STLAformer** for Traffic Forecasting, as d
   publisher={Elsevier}
 }
 
-Required Packages
+## ⚙️ **Required Packages**
+Before training, please make sure the following dependencies are installed:
+
+```bash
 pytorch>=1.11
 numpy
 pandas
@@ -42,15 +45,3 @@ pyyaml
 pickle
 torchinfo
 
-Training Commands
-cd model/
-python train.py -d <dataset> -g <gpu_id>
-
-Testing Commands
-Select TestPreTrained.py, choose the dataset to be tested, and import the trained model parameters from {DATASET_NAME}.pth in the pre-trained folder.
-
-<dataset>:
-PEMS03
-PEMS04
-PEMS07
-PEMS08
