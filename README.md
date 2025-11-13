@@ -9,7 +9,6 @@
 </p>
 
 This is a PyTorch implementation of **STLAformer** for Traffic Forecasting, as described in our paper:  
-[Cui, Tao](https://github.com/laibajiu/STLAformer/), Lu Yudong, Dong Di, Ren Chongguang, Qu Zhijian, Li Panjing,  
 **[Position-Aware Unified Embedding with Linear Attention for Distinguishable Flow Modeling](https://doi.org/10.1016/j.trc.2025.105423)**,  
 *Transportation Research Part C: Emerging Technologies*, 2026.
 
