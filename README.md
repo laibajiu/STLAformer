@@ -48,13 +48,17 @@ torchinfo
 ---
 
 ## Training Commands
+```bibtex
 cd model/  
 python train.py --d {dataset} --g {gpu_id}  
+```
 
 ---
 
 ## Testing Commands
+```bibtex
 Select TestPreTrained.py, choose the dataset to be tested, and import the trained model parameters from {DATASET_NAME}.pth in the pre-trained folder.  
+```
 
 ---
 
