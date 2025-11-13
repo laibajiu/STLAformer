@@ -1,16 +1,14 @@
 # [Transportation Research Part C] Position-Aware Unified Embedding with Linear Attention for Distinguishable Flow Modeling
 
+This is a PyTorch implementation of **STLAformer** for Traffic Forecasting, as described in our paper:  
 **[Tao Cui](https://github.com/laibajiu/STLAformer/)**, **Yudong Lu**, **Di Dong**, **Chongguang Ren**, **Zhijian Qu**, **Panjing Li**
-
+**[Position-Aware Unified Embedding with Linear Attention for Distinguishable Flow Modeling](https://doi.org/10.1016/j.trc.2025.105423)**,  
+*Transportation Research Part C: Emerging Technologies*, 2026.
 ---
 
 <p align="center">
   <img src="https://github.com/laibajiu/STLAformer/blob/main/images/Framework%20of%20STLAformer.png?raw=true" alt="Framework of STLAformer" width="100%">
 </p>
-
-This is a PyTorch implementation of **STLAformer** for Traffic Forecasting, as described in our paper:  
-**[Position-Aware Unified Embedding with Linear Attention for Distinguishable Flow Modeling](https://doi.org/10.1016/j.trc.2025.105423)**,  
-*Transportation Research Part C: Emerging Technologies*, 2026.
 
 ---
 
