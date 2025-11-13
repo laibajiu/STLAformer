@@ -48,7 +48,7 @@ torchinfo
 ---
 
 ## Training Commands
-cd model/  
+cd model/
 python train.py -d <dataset> -g <gpu_id>
 
 ---
