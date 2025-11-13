@@ -2,7 +2,7 @@
 
 [Tao Cui](https://github.com/laibajiu/STLAformer/), Yudong Lu, Di Dong, Chongguang Ren, Zhijian Qu, Panjing Li,  
 Transportation Research Part C: Emerging Technologies, 2026.  
-This is a PyTorch implementation of **STLAformer** for Traffic Forecasting, as described in our paper:  
+This is a PyTorch implementation of **STLAformer**, as described in our paper:  
 [https://doi.org/10.1016/j.trc.2025.105423](https://doi.org/10.1016/j.trc.2025.105423)
 ---
 
