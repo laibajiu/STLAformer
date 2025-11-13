@@ -15,14 +15,14 @@ This is a PyTorch implementation of **STLAformer** for Traffic Forecasting, as d
 
 ---
 
-## 🚦 Performance on Traffic Forecasting Benchmarks
+## Performance on Traffic Forecasting Benchmarks
 <p align="center">
-  <img src="https://github.com/laibajiu/STLAformer/blob/main/images/Evaluations%20of%20STLAformer.png?raw=true" alt="Evaluations of STLAformer" width="85%">
+  <img src="https://github.com/laibajiu/STLAformer/blob/main/images/Evaluations%20of%20STLAformer.png?raw=true" alt="Evaluations of STLAformer" width="100%">
 </p>
 
 ---
 
-## 📖 Citation
+## Citation
 ```bibtex
 @article{cui2026linear,
   title={Position-Aware Unified Embedding with Linear Attention for Distinguishable Flow Modeling},
@@ -34,10 +34,10 @@ This is a PyTorch implementation of **STLAformer** for Traffic Forecasting, as d
 }
 ```bibtex
 
-## ⚙️ Required Packages
-Before training, please make sure the following dependencies are installed:
+---
 
-```bash
+## Required Packages
+```bibtex
 pytorch>=1.11
 numpy
 pandas
@@ -45,4 +45,23 @@ matplotlib
 pyyaml
 pickle
 torchinfo
+```bibtex
 
+---
+
+## Training Commands
+cd model/
+python train.py -d <dataset> -g <gpu_id>
+
+---
+
+## Testing Commands
+Select TestPreTrained.py, choose the dataset to be tested, and import the trained model parameters from {DATASET_NAME}.pth in the pre-trained folder.
+
+---
+
+## Dataset
+PEMS03
+PEMS04
+PEMS07
+PEMS08
