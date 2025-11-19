@@ -62,8 +62,6 @@ Select TestPreTrained.py, choose the dataset to be tested, and import the traine
 
 ---
 
-## Dataset
-PEMS03  
-PEMS04  
-PEMS07  
-PEMS08  
+## PeMSD3 & PeMSD4 & PeMSD7 & PeMSD8
+- Download the data [百度网盘](https://pan.baidu.com/s/1UC6SWLck1oiiUt7ikQedVw?pwd=ftti) or [Google Drive](https://drive.google.com/file/d/1bcXorzSz3N_58K9A424jL-wADNgv7qE9/view?usp=drive_link).
+- Unzip them to corresponding folders.
