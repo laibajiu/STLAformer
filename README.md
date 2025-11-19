@@ -47,6 +47,12 @@ torchinfo
 
 ---
 
+## PeMSD3 & PeMSD4 & PeMSD7 & PeMSD8
+- Download the data [百度网盘](https://pan.baidu.com/s/1UC6SWLck1oiiUt7ikQedVw?pwd=ftti) or [Google Drive](https://drive.google.com/file/d/1bcXorzSz3N_58K9A424jL-wADNgv7qE9/view?usp=drive_link).
+- Unzip them to corresponding folders.
+
+---
+
 ## Training Commands
 ```bibtex
 cd model/  
@@ -60,8 +66,4 @@ python train.py --d {dataset} --g {gpu_id}
 Select TestPreTrained.py, choose the dataset to be tested, and import the trained model parameters from {DATASET_NAME}.pth in the pre-trained folder.  
 ```
 
----
 
-## PeMSD3 & PeMSD4 & PeMSD7 & PeMSD8
-- Download the data [百度网盘](https://pan.baidu.com/s/1UC6SWLck1oiiUt7ikQedVw?pwd=ftti) or [Google Drive](https://drive.google.com/file/d/1bcXorzSz3N_58K9A424jL-wADNgv7qE9/view?usp=drive_link).
-- Unzip them to corresponding folders.
