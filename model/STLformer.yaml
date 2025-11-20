@@ -95,7 +95,7 @@ PEMS08:
   weight_decay: 0.0020
   lr_decay_rate: 0.1
   batch_size: 16
-  max_epochs: 5
+  max_epochs: 200
   patience: 20
   use_cl: False
   cl_step_size: 2500
